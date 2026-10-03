@@ -1,0 +1,11 @@
+package com.appointflow.entity;
+
+public enum JobType {
+    RANDEVU_HATIRLATMA_24H,
+    RANDEVU_HATIRLATMA_1H,
+    KAZANC_PERIYOT_KAPAT,
+    WHATSAPP_TEMPLATE_SYNC,
+    SEGMENT_HESAPLA,
+    QUOTA_RECONCILIATION,
+    GENERIC
+}
